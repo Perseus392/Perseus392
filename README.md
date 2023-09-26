@@ -1,5 +1,5 @@
 -  Hi, I’m @Perseus392
--  Game Level Designer @DistrictM, @autoVRse
+-  Game Level Designer @DistrictM, @AutoVRse
 -  Former SDE rediscovering my love for System Design and Engineering. 
 <!---
 Perseus392/Perseus392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
